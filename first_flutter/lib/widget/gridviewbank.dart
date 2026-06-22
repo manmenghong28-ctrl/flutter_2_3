@@ -12,7 +12,7 @@ class Gridview extends StatelessWidget {
         title: Text("ABA BANK",
         style: TextStyle(fontWeight: FontWeight.bold,color: Colors.black),
         ),
-        backgroundColor: Colors.green,
+        backgroundColor: Colors.blue,
         foregroundColor: Colors.white,
         actions: [
           IconButton(
